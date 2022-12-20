@@ -1,3 +1,3 @@
 public class Elephant extends Animals{
-    int lenght;
+    private  int lenght;
 }

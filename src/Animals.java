@@ -1,5 +1,5 @@
 public class Animals {
-//    String name;
-//    int age;
-//    double weight;
+    private  String name;
+    private  int age;
+    private  double weight;
 }

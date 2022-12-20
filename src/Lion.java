@@ -1,3 +1,3 @@
 public class Lion extends Animals {
-    int bad;
+   private int bad;
 }

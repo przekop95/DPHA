@@ -1,3 +1,3 @@
 public class Parrot extends Animals {
-    int volume;
+    private  int volume;
 }
